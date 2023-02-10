@@ -85,17 +85,93 @@
 </div>
 <br/>
 
-Launch Ec2 instance
-Create S3 bucket
-Create IAM user
-Create Hosted Zone in Route53
-Install and configure aws cli
-Install and setup Kubectl
-Install Kubernetes with Kops
-Create Kubernetes cluster
-Update cluster
-Validate cluster
-CleanUP
+### :package: Launch Ec2 instance
+
+<br/>
+<div align="right">
+    <b><a href="#Project-03">↥ back to top</a></b>
+</div>
+<br/>
+
+### :package: Create S3 bucket
+
+<br/>
+<div align="right">
+    <b><a href="#Project-03">↥ back to top</a></b>
+</div>
+<br/>
+
+### :package: Create IAM user
+
+<br/>
+<div align="right">
+    <b><a href="#Project-03">↥ back to top</a></b>
+</div>
+<br/>
+
+### :package: Create Hosted Zone in Route53
+
+<br/>
+<div align="right">
+    <b><a href="#Project-03">↥ back to top</a></b>
+</div>
+<br/>
+
+### :package: Install and configure aws cli
+
+<br/>
+<div align="right">
+    <b><a href="#Project-03">↥ back to top</a></b>
+</div>
+<br/>
+
+### :package: Install and setup Kubectl
+
+<br/>
+<div align="right">
+    <b><a href="#Project-03">↥ back to top</a></b>
+</div>
+<br/>
+
+### :package: Install Kubernetes with Kops
+
+<br/>
+<div align="right">
+    <b><a href="#Project-03">↥ back to top</a></b>
+</div>
+<br/>
+
+### :package: Create Kubernetes cluster
+
+<br/>
+<div align="right">
+    <b><a href="#Project-03">↥ back to top</a></b>
+</div>
+<br/>
+
+### :package: Update cluster
+
+<br/>
+<div align="right">
+    <b><a href="#Project-03">↥ back to top</a></b>
+</div>
+<br/>
+
+### :package: Validate cluster
+
+<br/>
+<div align="right">
+    <b><a href="#Project-03">↥ back to top</a></b>
+</div>
+<br/>
+
+### :package: CleanUP
+
+<br/>
+<div align="right">
+    <b><a href="#Project-03">↥ back to top</a></b>
+</div>
+<br/>
 
 
 ## :earth_africa: Verify from browser
