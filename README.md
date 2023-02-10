@@ -8,17 +8,17 @@
 - [Tools](#hammer_and_wrench-Tools)
 - [Architecture of this project](#house-architecture-of-this-project)
 - [Steps to execute the project](#zap-steps-to-execute-the-project)
-  - [Launch Ec2 instance]
-  - [Create S3 bucket]
-  - [Create IAM user]
-  - [Create Hosted Zone in Route53]
-  - [Install and configure aws cli]
-  - [Install and setup Kubectl]
-  - [Install Kubernetes with Kops]
-  - [Create Kubernetes cluster]
-  - [Update cluster]-
-  - [Validate cluster]
-  - [CleanUP]
+  - [Launch Ec2 instance](#package-launch-ec2-instance)
+  - [Create S3 bucket](#package-create-s3-bucket)
+  - [Create IAM user](#package-create-iam-user)
+  - [Create Hosted Zone in Route53](#package-create-hosted-zone-in-route53)
+  - [Install and configure aws cli](#package-install-and-configure-aws-cli)
+  - [Install and setup Kubectl](#package-install-and-setup-kubectl)
+  - [Install Kubernetes with Kops](#package-install-kubernetes-with-kops)
+  - [Create Kubernetes cluster](#package-create-kubernetes-cluster)
+  - [Update cluster](#package-update-cluster)
+  - [Validate cluster](#package-validate-cluster)
+  - [CleanUP](#package-cleanup)
 - [Verify from browser](#earth_africa-verify-from-browser) 
 - [Resources](#page_facing_up-resources)
 - [Credit/Acknowledgment](#star2-creditacknowledgment)
